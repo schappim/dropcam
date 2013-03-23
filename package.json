@@ -1,0 +1,18 @@
+{
+  "name": "Dropcam",
+  "version": "0.0.1",
+  "description": "Use a Dropcam with Ninja Blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_cam"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:schappim/dropcam.git"
+  },
+  "keywords": [
+    "Dropcam"
+  ],
+  "author": "Marcus Schappi",
+  "license": "MIT"
+}
