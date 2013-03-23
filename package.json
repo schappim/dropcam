@@ -1,18 +1,25 @@
 {
-  "name": "Dropcam",
-  "version": "0.0.1",
-  "description": "Use a Dropcam with Ninja Blocks",
+  "name": "ninja-dropcam",
+  "version": "0.0.0",
+  "description": "Generic module for interfacing with Dropcams\"",
   "main": "index.js",
   "scripts": {
-    "test": "test_cam"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:schappim/dropcam.git"
+    "url": "https://github.com/schappi/dropcam"
   },
   "keywords": [
-    "Dropcam"
+    "Ninja",
+    "Blocks",
+    "IP",
+    "Camera",
+    "Module"
   ],
   "author": "Marcus Schappi",
-  "license": "MIT"
+  "license": "MIT",
+  "config":{
+    "urls":[]
+  }
 }
